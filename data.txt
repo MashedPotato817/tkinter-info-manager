@@ -1,0 +1,26 @@
+[
+  {
+    "name": "李四",
+    "gender": "女",
+    "height": "160",
+    "weight": "60",
+    "age": "18",
+    "hobby": "画画"
+  },
+  {
+    "name": "张三",
+    "gender": "男",
+    "height": "179",
+    "weight": "75",
+    "age": "19",
+    "hobby": "编程"
+  },
+  {
+    "name": "王五",
+    "gender": "男",
+    "height": "182",
+    "weight": "72",
+    "age": "20",
+    "hobby": "篮球"
+  }
+]
